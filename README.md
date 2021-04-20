@@ -1,6 +1,8 @@
 # Matplotlib-Challenge
 The power of plots!
+
 ** note ** The notebook must be run in order.
+
 ** note ** Must manually stop interactions for plots in order for graphs to show correctly
 
 
